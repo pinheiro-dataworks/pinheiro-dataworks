@@ -7,12 +7,6 @@ A enthusiast for **Artificial Intelligence** projects, I love exploring how AI c
 
 Let's collaborate on something amazing! 
 
-<div align="center">
-  <a href="https://github.com/pinheiro-dataworks">
-  <img height="160cm" src="https://github-readme-status.vercel.app/api?username=pinheiro-dataworks&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinheiro-dataworks&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ### Technologies
 
 <div style="display: inline_block"><br>
