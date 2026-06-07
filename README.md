@@ -1,9 +1,9 @@
 ## Hello! I'm Renan Pinheiro 👋
 
 ## About Me
-🚀 Civil Engineer with a bachelor's degree and hands-on experience in **project planning and cost control** for construction, now embarking on an exciting journey into **Data Science**.
-Passionate about technology, I'm specializing in **SQL**, **Python**, **Machine Learning**, and **Storytelling** to broaden my skill set and build innovative solutions.
-A enthusiast for **Artificial Intelligence** projects, I love exploring how AI can streamline real-world processes, like optimizing construction project management or data analysis for entrepreneurial ventures.
+🚀 Data Scientist specializing in PropTech & Real Estate Analytics, building AVM models, pipelines, and ML-driven cost intelligence systems at the intersection of Civil Engineering and Data Science.
+11+ years of domain expertise in construction and real estate financials (EVM, VGV, IRR, Cap Rate) translated into production-grade data products: predictive cost models, ETL pipelines, RAG systems, and executive dashboards deployed.
+Core stack: Python · SQL (PostgreSQL, BigQuery, NoSQL) · PySpark · Snowflake · AWS · Scikit-learn · XGBoost · LightGBM · MLflow · Streamlit · Airflow · LangChain
 
 Let's collaborate on something amazing! 
 
