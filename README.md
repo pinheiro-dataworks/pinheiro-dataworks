@@ -1,5 +1,3 @@
-## Hello! I'm Renan Pinheiro 👋
-
 ## About Me
 🚀 Data Scientist building production-oriented Machine Learning and AI systems that connect data, models, engineering, and business decisions.
 
@@ -15,16 +13,9 @@ Current focus: Production ML · Generative AI · RAG & Agents · Databricks · M
 
 Let's collaborate on something amazing! 
 
-### Technologies
+### Technical Expertise
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pinheiro-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Pinheiro-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
-  <img align="center" alt="Pinheiro-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="Pinheiro-Streamlit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" />
-  <img align="center" alt="Pinheiro-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Pinheiro-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />        
-</div>
+ML & AI | Data & Lakehouse | MLOps & Production | Analytics & Domain
 
 ### Contact
 
